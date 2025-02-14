@@ -1,7 +1,7 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { Inter } from '@next/font/google'
-import styles from '@/styles/Home.module.css'
+// import Head from 'next/head'
+// import Image from 'next/image'
+// import { Inter } from '@next/font/google'
+// import styles from '@/styles/Home.module.css'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Modul 01 - Lab 2.2 | Senior Project 2023</title>
+        <title>Modul 01 - Lab 2.2 | Senior Project 2025</title>
         <meta name="description" content="Template untuk Lab 2.2. Github Actions. Based on create next app" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
@@ -24,13 +24,13 @@ export default function Home() {
 
         <div className={styles.center}>
           <h1 className={inter.className}>
-            Senior Project 2023 | Lab Informatika
+            Senior Project 2025 | Lab Informatika
           </h1>
         </div>
 
         <div>
           <h5 className={inter.className}>
-            [Nama] | [NIU]
+            [Anggito Muhammad Amien] | [498140]
           </h5>
         </div>
       </main>
